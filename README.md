@@ -18,8 +18,6 @@ This is how the PCB looks:
   
 ## Files
 1. PCB.zip is a gerber file which is going to be used to tell the Manufacturing service how the PCB should be made.
-2. Enclosure.obj is an object file which is a 3D Model and it is going to be used to 3D Print the Enclosure.
-3. Source.epro is the PCB source file for any further modifications that you would want to do.
-4. Model.blend is the Blender source file for any further modifications that you would want to do.
+2. Source.epro is the PCB source file for any further modifications that you would want to do.
   
 
