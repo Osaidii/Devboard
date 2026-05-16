@@ -2,8 +2,8 @@
 
 Welcome to the open source repository for a custom designed RP2040 Devboard, with GPIO headers and a USB A port.
 This product has a USB-A port and lots of GPIO Headers, for input, ooutput, grounding etc.  
-This guide and the files are open source and completely free to distribute, use, or modify but you are not allowed to sell these files.
-Discaimer: This project most likely has lots of bad practices and things that are wrong, please do not trust this project blindly. I am just a beginner making projects.
+This guide and the files are open source and completely free to distribute, use, or modify but you are not allowed to sell these files.  
+Discaimer: This project most likely has lots of bad practices and things that are wrong, please do not trust this project blindly. I am just a beginner making projects.  
 Please confirm that everything checks out and I am not liable for any problems with this project.  
 I have made this to the best of my ability and there may be mistakes.  
 Please make an issue in the tabs above for any problems you find.  
