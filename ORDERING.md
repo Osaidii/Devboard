@@ -3,9 +3,9 @@
  
 ## Steps
 This part of the guide will define an overview of the steps required to end up with a complete Devboard.
-1. Start by downloading the [latest release](https://github.com/Osaidii/USB-HUB/releases) of the files in this repository.
+1. Start by downloading the [latest release](https://github.com/Osaidii/Devboard/releases) of the files in this repository.
 2. You will get the files Enclosure.obj, PCB.zip, Source.epro, and Model.blend after you extract the files from the zip file. The only ones you need if you are not doing any modifications are the first two.
-3. This is the point where if you want to modify the project for yourself, you can do so by skipping ahead to [Modify](https://github.com/Osaidii/USB-HUB#modify) and coming back later and continuing here.
+3. This is the point where if you want to modify the project for yourself, you can do so by going to this [Modify](https://github.com/Osaidii/Devboard/blob/main/MODIFY.md) and coming back later and continuing here.
 5. Now we can start by placing our order of the PCB (Printed Circuit Board) and the 3D Printed Enclosure.
 6. First of all you need to head to [JLCPCB](https://jlcpcb.com/) (which i am using) and create an account. You can also use any other PCB manufacturing service you want to use.
 7. Then you need to press Order now and select Standard PCB/PCBA at the top.
