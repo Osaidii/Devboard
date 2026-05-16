@@ -11,8 +11,8 @@ First of all we are going to start with how you can modify the PCB.
 2. Now, you can head to [EasyEdaPro](https://easyeda.com/) and make an account or login.
 3. Then you can click Design Online and then Pro edition since it is a lot easier.
 4. Now you can click File -> Import -> EasyEDA(Standard).
-5. Now you can select Source-Project.epro which will give you the option to modify and change the Schematics and the PCB.
-6. Some things you can add are lights for when a usb is plugged in, Add more Ports, or upgrade the ports from USB 2.0 to 3.0.
+5. Now you can select Source.epro which will give you the option to modify and change the Schematics and the PCB.
+6. Some things you can add are lights for when the devboard is on, or maybe add other ports or more headers, or upgrade the parts.
 7. After you are done modifying, You can press Check DRC in the bottom tab.
 8. If there are any things that pop up in the DRC zone, that means there is an error. You can search online, use AI to fix these, or use your brain to fix these.
 9. Now we need to export the files in Gerber Format so that we can order the PCB.
