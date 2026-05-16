@@ -25,7 +25,7 @@ This part of the guide will define an overview of the steps required to end up w
 21. For the quantity, The PCBs that we ordered are 5, which is the minimum option for buying from JLCPCB, you can go ahead and select as many Enclosures/Cases you want. I am selecting 2 for Money's Sake.
 22. Now you can click save to cart and also go ahead and buy both of the things.
 23. The only thing left is screws, we need 3 screws for each case, and we need 2mm x 15mm screws.
-24. I am going to buy some of these, but you might be able to find better prices in your region. ############
+24. I am going to buy some locally, but you can easily get them anywhere.
 25. Once you receive all your items, we can go ahead and complete the Whole Thing.
 26. First we can take out Side with walls and we can put our PCB upside down so that the Ports line up with the holes for them.
 27. Then we can position the PCB so that the PCB holes and the screw standoffs line up (The standoffs are a little smaller purposefully).
