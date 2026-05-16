@@ -3,6 +3,8 @@
 This part of the guide is going to be divided into two parts.  
 1. The PCB
 2. The Enclosure
+
+You can get the Files from the Latest Release [here](https://github.com/Osaidii/Devboard/releases)
   
 First of all we are going to start with how you can modify the PCB.  
 1. First of all, these PCB files are meant for EasyEdaPro and if you are using other software, please check if these files work with your software.
