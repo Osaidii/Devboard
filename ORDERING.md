@@ -32,5 +32,5 @@ This part of the guide will define an overview of the steps required to end up w
 28. Now you can place the lid on top of the whole thing and put the screws inside the Holes.
 29. Now you can go ahead and screw the screws so that the whole thing locks.
 30. The screws might be a little hard to screw since they are self-tapping screws and they might stick out just a little bit.
-31. Congratulations, You just completed the USB Hub.
+31. Congratulations, You just completed the Devboard.
 32. Thanks for following this Guide and I hope you are satisfied with the final product.
