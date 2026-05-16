@@ -19,5 +19,8 @@ This is how the PCB looks:
 ## Files
 1. PCB.zip is a gerber file which is going to be used to tell the Manufacturing service how the PCB should be made.
 2. Source.epro is the PCB source file for any further modifications that you would want to do.
-  
 
+
+
+If you want to Order this Devboard for personal or any type of use, please refer to this file.https://github.com/Osaidii/Devboard/blob/main/MODIFY.md
+If you want to modify this devboard for yourself, please refer to this file.
