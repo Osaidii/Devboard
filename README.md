@@ -22,5 +22,5 @@ This is how the PCB looks:
 
 
 
-If you want to Order this Devboard for personal or any type of use, please refer to this file.https://github.com/Osaidii/Devboard/blob/main/MODIFY.md
-If you want to modify this devboard for yourself, please refer to this file.
+If you want to Order this Devboard for personal or any type of use, please refer to this [file](https://github.com/Osaidii/Devboard/blob/main/ORDERING.md).   
+If you want to modify this devboard for yourself, please refer to this [file](https://github.com/Osaidii/Devboard/blob/main/MODIFY.md).
