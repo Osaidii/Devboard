@@ -10,8 +10,11 @@ Please make an issue in the tabs above for any problems you find.
 This guide will only show you how to order online and how to modify this proejct for yourself but not soldering or printing yourself since even I do not know how to do these.  
 
 
-![Devboard](https://cdn.hackclub.com/019e3245-084e-7678-ab21-b9fc31ac4bd9/screenshot_2026-05-16_9.13.40_pm.png)
   
+This is how the PCB looks:  
+    
+![Devboard](https://cdn.hackclub.com/019e3245-084e-7678-ab21-b9fc31ac4bd9/screenshot_2026-05-16_9.13.40_pm.png)  
+   
   
 ## Files
 1. PCB.zip is a gerber file which is going to be used to tell the Manufacturing service how the PCB should be made.
