@@ -15,7 +15,8 @@ This is how the PCB looks:
     
 ![Devboard](https://cdn.hackclub.com/019e3245-084e-7678-ab21-b9fc31ac4bd9/screenshot_2026-05-16_9.13.40_pm.png)  
 ![Devboard](https://cdn.hackclub.com/019faf08-e08a-78e7-9391-66e5b728e783/26bfb1fc2ab1433b967f3083c4be9c6f.webp)
-  
+![Devboard](https://cdn.hackclub.com/019faf0b-0eea-7405-b4f2-2a3f92375038/669011bfbe1b4a2180dd8054737bf140.webp)
+
   
 ## Files
 1. PCB.zip is a gerber file which is going to be used to tell the Manufacturing service how the PCB should be made.
