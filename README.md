@@ -28,5 +28,3 @@ If you want to order this Devboard for personal or any type of use, please refer
 If you want to modify this devboard for yourself, please refer to this [file](https://github.com/Osaidii/Devboard/blob/main/MODIFY.md).
 
   
-## oshwlab.com View-Only Link
- https://oshwlab.com/hassanosaid123/project_pvlxcmxs
